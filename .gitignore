@@ -1,0 +1,9 @@
+venv
+tmp/**
+Server/summaries/**
+Server/transcriptions/**
+**/__pycache__/**
+.idea/**
+.idea
+.env
+*.iml
